@@ -1,1 +1,1 @@
-# openxyz
+# openxyz-marketplace

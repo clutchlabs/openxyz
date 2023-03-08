@@ -1,0 +1,44 @@
+{
+  "folders": [
+    {
+      "path": "."
+    }
+  ],
+  "settings": {
+    "workbench.colorCustomizations": {
+      "activityBar.activeBackground": "#393e44",
+      "activityBar.activeBorder": "#bf407b",
+      "activityBar.background": "#393e44",
+      "activityBar.foreground": "#e7e7e7",
+      "activityBar.inactiveForeground": "#e7e7e799",
+      "activityBarBadge.background": "#bf407a",
+      "activityBarBadge.foreground": "#e7e7e7",
+      "sash.hoverBorder": "#393e44",
+      "statusBar.background": "#222528",
+      "statusBar.foreground": "#e7e7e7",
+      "statusBarItem.hoverBackground": "#393e44",
+      "statusBarItem.remoteBackground": "#222528",
+      "statusBarItem.remoteForeground": "#e7e7e7",
+      "titleBar.activeBackground": "#222528",
+      "titleBar.activeForeground": "#e7e7e7",
+      "titleBar.inactiveBackground": "#22252899",
+      "titleBar.inactiveForeground": "#e7e7e799",
+      "commandCenter.border": "#e7e7e799"
+    },
+    "peacock.color": "#222528",
+    "files.exclude": {
+      "**/.git": true,
+      "**/.svn": true,
+      "**/.hg": true,
+      "**/CVS": true,
+      "**/.DS_Store": true,
+      "**/Thumbs.db": true,
+      "**/node_modules": true,
+      "node_modules": true,
+      "**/yarn.lock": true,
+      "**/package-lock.json": true,
+      "package-lock.json": true,
+      ".next": true
+    }
+  }
+}
